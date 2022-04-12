@@ -1,5 +1,5 @@
 ### Hi there 👋
-hihi
+Hi I am currtly learing AI. I like exercising and playing video games.
 <!--
 **Erichung111/Erichung111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
